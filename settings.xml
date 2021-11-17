@@ -30,7 +30,7 @@
     <mirror>
       <id>vpro-maven-central</id>
       <name>vpro-maven-central</name>
-      <url>http://http://18.144.69.204/:8081/repository/vpro-maven-group/</url>
+      <url>http://18.144.69.204:8081/repository/vpro-maven-group/</url>
       <mirrorOf>vpro-maven-central</mirrorOf>
     </mirror>
   </mirrors>
