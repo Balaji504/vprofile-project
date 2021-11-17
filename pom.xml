@@ -159,7 +159,7 @@
 	<repositories>
     <repository>
       <id>vpro-maven-group</id>
-      <url>http://18.144.69.204:8081/repository/${NEXUS-GRP-REPO}/</url>
+      <url>http://18.144.69.204:8081/repository/vpro-maven-group/</url>
     </repository>
   </repositories>
 </project>
